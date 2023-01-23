@@ -1,0 +1,1 @@
+# single-responsibilty-principle-thai
