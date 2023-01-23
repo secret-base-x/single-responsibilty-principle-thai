@@ -1,4 +1,4 @@
-#Single Responsibility Principle
+# Single Responsibility Principle
 
 แนวคิดในการเขียนโปรแกรม
 ที่ทำให้ทักษะการวางโครงสร้างโค้ดของผมดีขึ้นมาก
